@@ -1,0 +1,6 @@
+print('Hello, everyone!!')
+print('Marilu bigode comigo ninguém pode')
+print('44 vida')
+print('MPIF')
+print('tudo da certo pra mim até quando não foi como eu quis')
+print('o que dói na gente não bate no outro')
